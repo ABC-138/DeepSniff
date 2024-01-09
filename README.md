@@ -28,3 +28,22 @@ DeepSniff is a packet sniffer tool that allows users to capture network packets 
 2. **Run DeepSniff:**
    ```bash
    sudo python3 deepsniff.py
+
+   
+
+1. Launch DeepSniff.
+2. Follow the on-screen prompts to start a packet capture.
+3. Choose the sniffing type (time-based or packet-based).
+4. Save captured packets when prompted.
+5. View the summary and press any key to exit.
+6. You can then open the .pcap file to analyze
+
+## Notes
+
+- Press Ctrl-C to stop the packet capture at any time.
+- Ensure proper permissions for capturing network packets.
+
+## Author
+
+Bort
+
