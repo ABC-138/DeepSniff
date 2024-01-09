@@ -30,8 +30,6 @@ DeepSniff is a packet sniffer tool that allows users to capture network packets 
    sudo python3 deepsniff.py
 
    
-
-1. Launch DeepSniff.
 2. Follow the on-screen prompts to start a packet capture.
 3. Choose the sniffing type (time-based or packet-based).
 4. Save captured packets when prompted.
