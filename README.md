@@ -18,23 +18,26 @@ DeepSniff is a packet sniffer tool that allows users to capture network packets 
 
 - Python 3
 - Scapy library
+  
 
 ## Installation
 
-1. **Install Scapy:**
+1. **Git Clone:**
+   ```bash
+   git clone https://github.com/ABC-138/DeepSniff.git
+2. **Install Scapy:**
    ```bash
    pip install scapy
-
-2. **Run DeepSniff:**
+3. **Run DeepSniff:**
    ```bash
    sudo python3 deepsniff.py
 
    
-2. Follow the on-screen prompts to start a packet capture.
-3. Choose the sniffing type (time-based or packet-based).
-4. Save captured packets when prompted.
-5. View the summary and press any key to exit.
-6. You can then open the .pcap file to analyze
+4. Follow the on-screen prompts to start a packet capture.
+5. Choose the sniffing type (time-based or packet-based).
+6. Save captured packets when prompted.
+7. View the summary and press any key to exit.
+8. You can then open the .pcap file to analyze
 
 ## Notes
 
